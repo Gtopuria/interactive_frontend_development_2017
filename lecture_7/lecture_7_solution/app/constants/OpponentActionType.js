@@ -1,0 +1,1 @@
+export const UPDATE_OPPONENT = 'UPDATE_OPPONENT';

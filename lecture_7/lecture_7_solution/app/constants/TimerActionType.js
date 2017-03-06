@@ -1,1 +1,0 @@
-export const INCREMENT_TIMER = 'INCREMENT_TIMER';

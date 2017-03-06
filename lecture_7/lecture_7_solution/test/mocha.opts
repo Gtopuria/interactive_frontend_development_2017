@@ -1,5 +1,0 @@
---require test/test-helper.js
---compilers js:babel-core/register
---recursive
---reporter spec
---ui bdd

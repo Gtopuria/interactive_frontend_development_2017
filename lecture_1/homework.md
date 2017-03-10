@@ -16,7 +16,6 @@
   * Configure webpack to output one JS file (e.g ./dist/bundle.js)
   * Configure webpack to use babel as a transpiler for JavaScript files
   * Configure webpack to include source maps in the JavaScript bundle
-  * Configure webpack with extract-text-webpack-plugin to compile your CSS file
 * Configure babel to output JavaScript that is
   * compatible with browsers with *equal to or more than 3% market share*
 * Configure eslint
